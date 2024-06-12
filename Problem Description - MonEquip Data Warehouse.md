@@ -12,11 +12,11 @@ MonEquip currently has an existing operational database which maintains and stor
 
 The data definition of each table in MonEquip is as follows:
 
-![Table Attributes 1]("images\Table Attributes 1.png")
+![Table Attributes 1]("images/TableAttributes1.png")
 
-![Table Attributes 2]("images\Table Attributes 2.png")
+![Table Attributes 2]("images/TableAttributes2.png")
 
-![Table Attributes 3]("images\Table Attributes 3.png")
+![Table Attributes 3]("images/TableAttributes3.png")
 
 For the daily operation, MonEquip normally purchases equipment from its suppliers. The company then resells the equipment to customers while also providing a hiring service. When an equipment is purchased, the price of the equipment is kept in the Equipment table as EquipmentPrice. Meanwhile, the hiring rate is calculated as follows: 
 
