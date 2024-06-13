@@ -10,7 +10,7 @@ Please refer to the [Design Solution](design/Schema Design.pdf) file for the sta
 
 ## Data Pre-processing & Cleaning
 The raw data provided by the client undergoes thorough pre-processing and cleaning to ensure it is prepared for implementation use.
-Please refer to [Data Cleaning](SQL implementation/Data_Cleaning.sql) script file for implementation.
+Please refer to [Data Cleaning](SQL%20implementation/Data_Cleaning.sql) script file for implementation.
 
 ## Design Implementation
 The design solution (star model) is implemented in SQL.
